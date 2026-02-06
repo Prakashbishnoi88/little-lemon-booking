@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+form {
+  max-width: 300px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+button {
+  background: green;
+  color: white;
+  padding: 8px;
+  border: none;
+}
